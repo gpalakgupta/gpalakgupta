@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !!👋 I am Palak Gupta
 
 <!--
 **gpalakgupta/gpalakgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 About Me<br>💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Machine Learning, Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
+🚀 About Me<br>💻 B-Tech CSE @ GLA University<br><br>🚀 Exploring Web Development<br><br>🔥 Actively solving DSA problems on LeetCode & CodeForces
 
 
 ## 🌐 Socials:
